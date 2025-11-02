@@ -1,0 +1,22 @@
+######################
+# Eclipse
+######################
+.metadata/
+
+# Maven/Gradle build output (if applicable)
+pom.xml.tag
+pom.xml.bak
+pom.xml.versionsBackup
+release.properties
+dependency-reduced-pom.xml
+build/
+.gradle/
+.project.gradle
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+temp/
